@@ -60,3 +60,16 @@ My goal is to make technology easy, elegant, and impactful.
 This project is open-source and available for free use.
 Feel free to fork it, customize it, and make it yours!
 Made with ❤️ by Dhiraj Kumar
+---
+
+✅ **Steps to use:**
+1. Create a file: `README.md` in root folder.
+2. Paste the above content.
+3. Update the placeholders like live site URL, LinkedIn, email, image links, etc.
+4. Push changes:
+
+```bash
+git add README.md
+git commit -m "Added professional README"
+git push
+
