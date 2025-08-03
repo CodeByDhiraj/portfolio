@@ -1,75 +1,114 @@
-# 🚀 Dhiraj's Developer Portfolio
+<!-- Banner / Preview -->
+<p align="center">
+  <img src="https://yourdomain.com/preview.png" alt="Banner" width="100%" />
+</p>
 
-Welcome to my personal developer portfolio — a sleek, modern, and fast web app built with **React + Vite + Tailwind CSS + TypeScript + Framer Motion**.  
-This portfolio showcases my skills, experience, and featured projects — designed to leave a strong first impression 💼✨
+<h1 align="center">🚀 Dhiraj's Developer Portfolio</h1>
+<p align="center">
+  A sleek, modern, and high-performance portfolio built using the latest web technologies.  
+  <br />
+  <a href="https://portfolio-two-mu-wecylq05fc.vercel.app" target="_blank"><strong>🌐 View Live Demo →</strong></a>
+  <br />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/CodeByDhiraj/portfolio" />
+  <img src="https://img.shields.io/badge/Built%20with-React%20%2B%20Vite-blue" />
+  <img src="https://img.shields.io/badge/Deployed-Vercel-black" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I’m **Dhiraj Kumar**, a passionate Full-Stack Developer from India.  
-I specialize in building high-performance web applications and love turning ideas into real products.  
-My goal is to make technology easy, elegant, and impactful.
+Hi! I’m **Dhiraj Kumar**, a Full-Stack Developer from India 🇮🇳  
+I love building fast, modern, and elegant websites with great user experience.  
+My goal? Make technology beautiful and impactful.
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **Frontend:** React, TypeScript, Vite, Tailwind CSS  
-- **Animation:** Framer Motion  
-- **Icons:** Lucide Icons, Heroicons  
-- **Deployment:** Vercel  
-- **Email Support:** EmailJS (Contact Form)
+| Area        | Tools Used                                      |
+|-------------|-------------------------------------------------|
+| Frontend    | `React`, `TypeScript`, `Vite`, `Tailwind CSS`   |
+| Animation   | `Framer Motion`                                 |
+| Icons       | `Lucide Icons`, `Heroicons`                     |
+| Deployment  | `Vercel`                                        |
+| Contact     | `EmailJS` (Integrated Contact Form)             |
 
 ---
 
-## 🎯 Features
+## ✨ Features
 
-- 🔥 Lightning-fast build with Vite
-- 🌗 Dark / Light Mode Toggle
-- 🧩 Modular & Scalable Codebase
-- 💼 Project Cards with Hover Effects
-- 🗣️ Client Testimonials Carousel
-- 📱 Fully Responsive Design
-- 📄 Resume Download Option
-- 📬 Functional Contact Form
+- ⚡ **Vite-powered blazing fast build**
+- 🌗 **Dark Modern Theme**
+- 💻 **Modern & responsive design**
+- 📄 **Downloadable Resume**
+- 🧩 **Modular component structure**
+- 🗣 **Real Testimonials Section**
+- 📬 **Contact form with email integration**
 
 ---
+
+## 📸 Screenshots
+
+### 💻 Desktop View
+![Desktop](https://yourdomain.com/screenshot-desktop.png)
+
+### 📱 Mobile View
+![Mobile](https://yourdomain.com/screenshot-mobile.png)
+
+> 💡 Add your own screenshots inside `public/` folder and update links above.
+
+---
+
 ## 🚀 Live Preview
-🔗 Live Site: https://portfolio-yourname.vercel.app
 
+**🔗 [Visit Live Portfolio](https://portfolio-two-mu-wecylq05fc.vercel.app)**
 
+---
 
 ## 📁 Folder Structure
 
 ```bash
 .
 ├── public/
+│   └── (images, favicon, etc.)
 ├── src/
-│   ├── components/       # UI Components
-│   ├── hooks/            # Custom Hooks
-│   ├── pages/            # Page Files (Home, Contact, 404, etc.)
-│   ├── styles/           # Tailwind and global styles
+│   ├── components/       # Reusable components
+│   ├── hooks/            # Custom hooks
+│   ├── pages/            # Pages (Home, Contact, etc.)
+│   ├── styles/           # Tailwind and global CSS
 │   └── main.tsx          # App entry point
 ├── vite.config.ts
 ├── tailwind.config.ts
 └── README.md
 
 
+# Clone this repository
+git clone https://github.com/CodeByDhiraj/portfolio.git
+
+# Go into the project directory
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
+
+🙏 Special Thanks
+Inspiration from several modern dev portfolios on GitHub.
+Community support 💬
+
+📫 Contact Me
+Portfolio: https://portfolio-two-mu-wecylq05fc.vercel.app
+Email: dsingh98658@gmail.com
+LinkedIn: https://www.linkedin.com/in/dhiraj-kumar-850s/
+
 📝 License
-This project is open-source and available for free use.
-Feel free to fork it, customize it, and make it yours!
-Made with ❤️ by Dhiraj Kumar
----
-
-✅ **Steps to use:**
-1. Create a file: `README.md` in root folder.
-2. Paste the above content.
-3. Update the placeholders like live site URL, LinkedIn, email, image links, etc.
-4. Push changes:
-
-```bash
-git add README.md
-git commit -m "Added professional README"
-git push
-
+This project is open-source under the MIT License.
+Feel free to fork, modify, and build upon it. Just credit Dhiraj Kumar with a link back or mention ✨
+Made with ❤️ by Dhiraj Kumar (@CodeByDhiraj)
