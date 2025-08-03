@@ -1,6 +1,6 @@
 <!-- Banner / Preview -->
 <p align="center">
-  <img src="https://portfolio-two-mu-wecylq05fc.vercel.app/preview.png" alt="Banner" width="100%" />
+  <img src="https://github.com/CodeByDhiraj/portfolio/raw/main/public/preview.png" alt="Banner" width="70%" />
 </p>
 
 <h1 align="center">🚀 Dhiraj's Developer Portfolio</h1>
@@ -54,10 +54,14 @@ My goal? Make technology beautiful and impactful.
 ## 📸 Screenshots
 
 ### 💻 Desktop View
-![Desktop View](https://portfolio-two-mu-wecylq05fc.vercel.app/screenshot-desktop.png)
+<p align="center">
+  <img src="https://github.com/CodeByDhiraj/portfolio/raw/main/public/screenshot-desktop.png" alt="Mobile View" width="70%" />
+</p>
 
 ### 📱 Mobile View
-![Mobile View](https://portfolio-two-mu-wecylq05fc.vercel.app/screenshot-mobile.png)
+<p align="center">
+  <img src="https://github.com/CodeByDhiraj/portfolio/raw/main/public/screenshot-mobile.png" alt="Mobile View" width="22%" />
+</p>
 
 ---
 
@@ -102,7 +106,8 @@ Made with ❤️ by Dhiraj Kumar ([@CodeByDhiraj](https://github.com/CodeByDhira
 ├── tailwind.config.ts
 └── README.md
 ```
-# Clone this repository
+# 🧠 Clone this repository
+```bash
 git clone https://github.com/CodeByDhiraj/portfolio.git
 
 # Go into the project directory
@@ -113,3 +118,4 @@ npm install
 
 # Run the development server
 npm run dev
+```
