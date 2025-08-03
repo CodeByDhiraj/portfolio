@@ -67,6 +67,21 @@ My goal? Make technology beautiful and impactful.
 
 ---
 
+🙏 Special Thanks
+Inspiration from several modern dev portfolios on GitHub.
+Community support 💬
+
+📫 Contact Me
+Portfolio: https://portfolio-two-mu-wecylq05fc.vercel.app
+Email: dsingh98658@gmail.com
+LinkedIn: https://www.linkedin.com/in/dhiraj-kumar-850s/
+
+📝 License
+This project is open-source under the MIT License.
+Feel free to fork, modify, and build upon it. Just credit Dhiraj Kumar with a link back or mention ✨
+Made with ❤️ by Dhiraj Kumar (@CodeByDhiraj)
+
+
 ## 📁 Folder Structure
 
 ```bash
@@ -96,17 +111,3 @@ npm install
 
 # Run the development server
 npm run dev
-
-🙏 Special Thanks
-Inspiration from several modern dev portfolios on GitHub.
-Community support 💬
-
-📫 Contact Me
-Portfolio: https://portfolio-two-mu-wecylq05fc.vercel.app
-Email: dsingh98658@gmail.com
-LinkedIn: https://www.linkedin.com/in/dhiraj-kumar-850s/
-
-📝 License
-This project is open-source under the MIT License.
-Feel free to fork, modify, and build upon it. Just credit Dhiraj Kumar with a link back or mention ✨
-Made with ❤️ by Dhiraj Kumar (@CodeByDhiraj)
