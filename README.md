@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/CodeByDhiraj/portfolio" />
+  <img src="https://img.shields.io/badge/license-MIT-green" />
   <img src="https://img.shields.io/badge/Built%20with-React%20%2B%20Vite-blue" />
   <img src="https://img.shields.io/badge/Deployed-Vercel-black" />
 </p>
@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 
 Hi! I’m **Dhiraj Kumar**, a Full-Stack Developer from India 🇮🇳  
-I love building fast, modern, and elegant websites with great user experience.  
+I love building fast, modern, and elegant websites with a great user experience.  
 My goal? Make technology beautiful and impactful.
 
 ---
@@ -54,10 +54,10 @@ My goal? Make technology beautiful and impactful.
 ## 📸 Screenshots
 
 ### 💻 Desktop View
-![Desktop](https://portfolio-two-mu-wecylq05fc.vercel.app/screenshot-desktop.png)
+![Desktop View](https://portfolio-two-mu-wecylq05fc.vercel.app/screenshot-desktop.png)
 
 ### 📱 Mobile View
-![Mobile](https://portfolio-two-mu-wecylq05fc.vercel.app/screenshot-mobile.png)
+![Mobile View](https://portfolio-two-mu-wecylq05fc.vercel.app/screenshot-mobile.png)
 
 ---
 
@@ -67,20 +67,24 @@ My goal? Make technology beautiful and impactful.
 
 ---
 
-🙏 Special Thanks
-Inspiration from several modern dev portfolios on GitHub.
+🙏 Special Thanks  
+Inspiration from several modern dev portfolios on GitHub.  
 Community support 💬
 
-📫 Contact Me
-Portfolio: https://portfolio-two-mu-wecylq05fc.vercel.app
-Email: dsingh98658@gmail.com
-LinkedIn: https://www.linkedin.com/in/dhiraj-kumar-850s/
+📫 **Contact Me**  
+Portfolio: [https://portfolio-two-mu-wecylq05fc.vercel.app](https://portfolio-two-mu-wecylq05fc.vercel.app)  
+Email: dsingh98658@gmail.com  
+LinkedIn: [linkedin.com/in/dhiraj-kumar-850s](https://linkedin.com/in/dhiraj-kumar-850s)
 
-📝 License
-This project is open-source under the MIT License.
-Feel free to fork, modify, and build upon it. Just credit Dhiraj Kumar with a link back or mention ✨
-Made with ❤️ by Dhiraj Kumar (@CodeByDhiraj)
+---
 
+📝 **License**  
+This project is open-source under the MIT License.  
+Feel free to fork, modify, and build upon it.  
+Just credit Dhiraj Kumar with a link back or mention ✨  
+Made with ❤️ by Dhiraj Kumar ([@CodeByDhiraj](https://github.com/CodeByDhiraj))
+
+---
 
 ## 📁 Folder Structure
 
@@ -97,9 +101,7 @@ Made with ❤️ by Dhiraj Kumar (@CodeByDhiraj)
 ├── vite.config.ts
 ├── tailwind.config.ts
 └── README.md
----
-
-🧠 Getting Started
+```
 # Clone this repository
 git clone https://github.com/CodeByDhiraj/portfolio.git
 
