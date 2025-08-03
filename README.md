@@ -1,6 +1,6 @@
 <!-- Banner / Preview -->
 <p align="center">
-  <img src="https://yourdomain.com/preview.png" alt="Banner" width="100%" />
+  <img src="https://portfolio-two-mu-wecylq05fc.vercel.app/preview.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">🚀 Dhiraj's Developer Portfolio</h1>
@@ -54,10 +54,10 @@ My goal? Make technology beautiful and impactful.
 ## 📸 Screenshots
 
 ### 💻 Desktop View
-![Desktop](https://yourdomain.com/screenshot-desktop.png)
+![Desktop](https://portfolio-two-mu-wecylq05fc.vercel.app/screenshot-desktop.png)
 
 ### 📱 Mobile View
-![Mobile](https://yourdomain.com/screenshot-mobile.png)
+![Mobile](https://portfolio-two-mu-wecylq05fc.vercel.app/screenshot-mobile.png)
 
 > 💡 Add your own screenshots inside `public/` folder and update links above.
 
