@@ -59,8 +59,6 @@ My goal? Make technology beautiful and impactful.
 ### 📱 Mobile View
 ![Mobile](https://portfolio-two-mu-wecylq05fc.vercel.app/screenshot-mobile.png)
 
-> 💡 Add your own screenshots inside `public/` folder and update links above.
-
 ---
 
 ## 🚀 Live Preview
@@ -84,8 +82,9 @@ My goal? Make technology beautiful and impactful.
 ├── vite.config.ts
 ├── tailwind.config.ts
 └── README.md
+---
 
-
+🧠 Getting Started
 # Clone this repository
 git clone https://github.com/CodeByDhiraj/portfolio.git
 
@@ -97,7 +96,6 @@ npm install
 
 # Run the development server
 npm run dev
-
 
 🙏 Special Thanks
 Inspiration from several modern dev portfolios on GitHub.
