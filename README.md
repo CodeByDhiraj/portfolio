@@ -78,7 +78,7 @@ Community support 💬
 📫 **Contact Me**  
 Portfolio: [https://portfolio-two-mu-wecylq05fc.vercel.app](https://portfolio-two-mu-wecylq05fc.vercel.app)  
 Email: dsingh98658@gmail.com  
-LinkedIn: [linkedin.com/in/dhiraj-kumar-850s](https://linkedin.com/in/dhiraj-kumar-850s)
+LinkedIn: https://www.linkedin.com/in/dhirajdev
 
 ---
 
