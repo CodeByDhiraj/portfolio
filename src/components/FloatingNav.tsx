@@ -33,7 +33,7 @@ const FloatingNav = () => {
         if (prev >= 100) {
           clearInterval(interval);
           setDownloading(false);
-          window.open("/Dhiraj_Kumar_Resume.pdf", "_blank");
+          window.open("/[Dhiraj_Kumar_Resume].pdf", "_blank");
           return 100;
         }
         return prev + 10;
