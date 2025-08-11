@@ -22,7 +22,7 @@ const Footer = () => {
     },
     {
       icon: Linkedin,
-      href: "https://www.linkedin.com/in/dhiraj-kumar-850s/",
+      href: "https://www.linkedin.com/in/dhirajdev/",
       label: "LinkedIn",
       color: "hover:text-blue-400",
     },
