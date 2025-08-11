@@ -96,7 +96,7 @@ const Hero = () => {
                 className="relative"
               >
                 <h2 className="text-lg sm:text-xl md:text-2xl lg:text-3xl text-muted-foreground">
-                  Full Stack Developer , Software Engineer &
+                  Full Stack Developer, Software Engineer &
                   <motion.span
                     className="text-accent ml-2"
                     animate={{
@@ -178,7 +178,7 @@ const Hero = () => {
                 },
                 {
                   icon: Linkedin,
-                  href: "https://www.linkedin.com/in/dhiraj-kumar-850s//",
+                  href: "https://www.linkedin.com/in/dhirajdev",
                   color: "hover:text-neon-cyan",
                 },
                 {
