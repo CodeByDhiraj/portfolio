@@ -54,7 +54,7 @@ const FloatingNav = () => {
     },
     {
       icon: Linkedin,
-      href: "https://www.linkedin.com/in/dhiraj-kumar-850s/",
+      href: "https://www.linkedin.com/in/dhirajdev",
       label: "LinkedIn",
     },
     {
