@@ -311,7 +311,7 @@ const Projects = () => {
         "FFmpeg",
       ],
       image: "/project1.png",
-      liveUrl: "netfrix.site",
+      liveUrl: "nohello.net",
       githubUrl:
         "#",
     },
@@ -328,7 +328,7 @@ const Projects = () => {
         "Slack",
       ],
       image: "/project2.png",
-      liveUrl: "#",
+      liveUrl: "https://dhirajportfolio.lettrics.com",
       githubUrl: "#",
     },
     {
@@ -363,7 +363,7 @@ const Projects = () => {
         "Crafted a sleek and responsive business showcase page using pure HTML, CSS, and JavaScript. The project emphasizes modern UI/UX principles, mobile-first responsiveness, and clean section transitions—ideal for corporate, service, or personal branding websites.",
       tech:["HTML", "CSS", "JavaScript", "UI/UX", "Responsive Design", "Tailwind CSS"],
       image: "/project5.png",
-      liveUrl: "#",
+      liveUrl: "https://carservices.vercel.app",
       githubUrl: "https://github.com/CodeByDhiraj/Octanet_InternshipTask1",
     },
   ];
